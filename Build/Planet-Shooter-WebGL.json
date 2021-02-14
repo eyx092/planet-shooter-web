@@ -1,0 +1,16 @@
+{
+"companyName": "eyx",
+"productName": "Planet Shooter",
+"productVersion": "1.1.0",
+"dataUrl": "Planet-Shooter-WebGL.data.unityweb",
+"wasmCodeUrl": "Planet-Shooter-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Planet-Shooter-WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
